@@ -1,3 +1,5 @@
+# set a min pos and in every iteration find the min pos  value so  swapping
+
 def Selectionsort(inp):
     for i in range(0,len(inp)-1):
         minpos =i
